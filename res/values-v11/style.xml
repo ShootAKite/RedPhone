@@ -38,8 +38,8 @@
 
         <item name="android:listPreferredItemPaddingLeft">16dip</item>
         <item name="android:listPreferredItemPaddingRight">16dip</item>
-        <item name="android:listPreferredItemPaddingStart">16dip</item>
-        <item name="android:listPreferredItemPaddingEnd">16dip</item>
+<!--        <item name="android:listPreferredItemPaddingStart">16dip</item>
+        <item name="android:listPreferredItemPaddingEnd">16dip</item>-->
     </style>
 
 </resources>
